@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\jliu73\.android\build-cache\5bd95ff1a46ba28c0dcc47dfd1fe9de89c1e3638\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\jliu73\Desktop\SwipeDemo\app\build\intermediates\pre-dexed\debug\classes_1362c1cf0dc6b97f78e8fecac61f630996d5fb57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jliu73\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\jliu73\Desktop\SwipeDemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_567b30c4d380ada6b546a28f49ee8d7e07cc41d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jliu73\.android\build-cache\b94ca6c1d75607d2d6df77c043fdef1e14da8246\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\jliu73\Desktop\SwipeDemo\app\build\intermediates\pre-dexed\debug\classes_8713680581ac79ca777aa84b14cc7a7725c926c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jliu73\.android\build-cache\0b4c49841ff80e44f145d991e3c2a70fa98eaeda\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\jliu73\Desktop\SwipeDemo\app\build\intermediates\pre-dexed\debug\classes_eef1fd957f6dccc57c5fe9445a00348a588febc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jliu73\.android\build-cache\1980ca44127b73d77fc5407873235bf758276949\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\jliu73\Desktop\SwipeDemo\app\build\intermediates\pre-dexed\debug\classes_2eaf0453be832e62ae5dbb62fc8cd6122b7fbb08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jliu73\.android\build-cache\26497b66132540961d990348f4a2e594eea56d4c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\jliu73\Desktop\SwipeDemo\app\build\intermediates\pre-dexed\debug\classes_94f1eb9d9b19db4d7bca58e1232c926a33af2ec6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jliu73\.android\build-cache\7fda276d594380201457d000fd8a7a83986d54ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\jliu73\Desktop\SwipeDemo\app\build\intermediates\pre-dexed\debug\classes_871d1f2c164014558499955624275b914c2d2ae8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jliu73\.android\build-cache\bce80298de5f3e6a0442ed5e5f120fa350458055\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\jliu73\Desktop\SwipeDemo\app\build\intermediates\pre-dexed\debug\classes_ff45ac4e27693359d990e707e7ab360379517b46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jliu73\.android\build-cache\467117d199dc01afb919481ad6be19261ed1b8e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\jliu73\Desktop\SwipeDemo\app\build\intermediates\pre-dexed\debug\classes_aaaeb366d27657e7c5549e410d2b1427de1f6d70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jliu73\.android\build-cache\1fd8dd9d76bf632c0165db67c2a57b13fe982dfa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\jliu73\Desktop\SwipeDemo\app\build\intermediates\pre-dexed\debug\classes_7b4a0fcb67c9b90d5a4ac40aef4f1ec1888c48a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jliu73\.android\build-cache\a37bd6d5bdde87bcbee79e6948b2faf539b0defa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e84b30031d4bab89a2b5c45af4eb9213828524dd">
+        <dex dex="C:\Users\jliu73\Desktop\SwipeDemo\app\build\intermediates\pre-dexed\debug\classes_63b8c3e29683de38a1e44eb8a5ba51138d4cd6c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jliu73\.android\build-cache\ace2052e2c5204410bc7788c6e14f084450c462a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\jliu73\Desktop\SwipeDemo\app\build\intermediates\pre-dexed\debug\classes_c63258077a6ecb1a15152bfd34d303b8e74c073d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jliu73\.android\build-cache\9300e382d402a380811ffa48e08c7c8529c2afb6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\jliu73\Desktop\SwipeDemo\app\build\intermediates\pre-dexed\debug\classes_cad63a5cbaf3e3bcd02b3a8958109bfd5eaf0547.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jliu73\.android\build-cache\34b31d8854440a28774881530fc24ac1078dca0e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\jliu73\Desktop\SwipeDemo\app\build\intermediates\pre-dexed\debug\classes_1b59c36440766a6af2179ecd63df74784d0228b1.jar" />
+    </item>
+
+</items>
