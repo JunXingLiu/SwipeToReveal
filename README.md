@@ -5,6 +5,7 @@
 This app allows you to use swipe gesture to reveal options
 
 ![](https://media.giphy.com/media/W2nUxV7cqRah4QpHcO/source.gif)
+
 Gradle 
 
 ```
